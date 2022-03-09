@@ -8,7 +8,7 @@
      
    This Internship provides us eight tasks and I am currently working on the task.
     
-#### Task-1 : Prediction using Supervised ML model [Beginner]
+### Task-1 : Prediction using Supervised ML model [Beginner]
 
   Predict the percentage of an student based on the no. of study hours.
   
