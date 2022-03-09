@@ -13,11 +13,6 @@
   Predict the percentage of an student based on the no. of study hours.
   
   
-  **Programming Language :** Python
-  
-  **IDE :** Jupyter-Notebook
-  
-  
   **Dataset Link :** http://bit.ly/w-data
   
   What will be predicted score if a student studies for 9.25 hrs/ day?
@@ -26,7 +21,9 @@
   
   **GitHub repo link :** https://github.com/Kumarinishu/The-Sparks-Foundation-Internship-Nishu/tree/main/TASKS/TASK-1/Prediction-using-Supervised-ML-Nishu.
   
+  **Programming Language used :** Python
   
+  **IDE used :** Jupyter-Notebook
   
   **Copyright (c) 2022 Nishu Kumari**
 
