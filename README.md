@@ -17,4 +17,4 @@
   
   What will be predicted score if a student studies for 9.25 hrs/ day?
   
-  My work on the task can be found at my github repo.
+  My work on the task can be found at my https://github.com/Kumarinishu/The-Sparks-Foundation-Internship-Nishu/tree/main/TASKS/TASK-1/Prediction-using-Supervised-ML-Nishu.
