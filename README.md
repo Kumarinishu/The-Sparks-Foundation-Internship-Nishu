@@ -42,7 +42,7 @@
   
   My work on the task can be found at my git repo 
   
-  **GitHub repo link :** https://github.com/Kumarinishu/The-Sparks-Foundation-Internship-Nishu/tree/main/TASKS/TASK-1/Prediction-using-Supervised-ML-Nishu.
+  **GitHub repo link :** https://github.com/Kumarinishu/The-Sparks-Foundation-Internship-Nishu/tree/main/TASKS/TASK-2/Prediction-using-Unsupervised-ML-Nishu .
   
   **Programming Language used :** Python
   
