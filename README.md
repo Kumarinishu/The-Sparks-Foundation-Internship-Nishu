@@ -52,7 +52,7 @@
   
   **YouTube video link :** https://youtu.be/SqVtmfabLgE
   
-  **Linkedin post link :** https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task1-ml-activity-6907723286986276864-TFXO
+  **Linkedin post link :** https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task2-ml-activity-6908757574322126848-L8Ih?utm_source=linkedin_share&utm_medium=member_desktop_web
   
   **Copyright (c) 2022 Nishu Kumari**
 
