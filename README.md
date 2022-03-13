@@ -1,6 +1,6 @@
 # The Sparks Foundation                          
 
-![image.png](attachment:image.png)
+# ![image.png](attachment:image.png)
 
 ## GRIP : March-22
 ### Data Science & Business Analytics Internship
