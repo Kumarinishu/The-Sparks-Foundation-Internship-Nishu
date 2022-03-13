@@ -50,7 +50,7 @@
   **IDE used :** Jupyter-Notebook
   
   
-  **YouTube video link :** https://youtu.be/LcICJFAvMbk
+  **YouTube video link :** https://youtu.be/SqVtmfabLgE
   
   **Linkedin post link :** https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task1-ml-activity-6907723286986276864-TFXO
   
