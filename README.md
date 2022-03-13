@@ -1,4 +1,4 @@
-# The Sparks Foundation                          
+# The Sparks Foundation Internship                            
 
 ## GRIP : March-22
 ### Data Science & Business Analytics Internship
