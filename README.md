@@ -1,7 +1,5 @@
 # The Sparks Foundation                          
 
-# https://internship.thesparksfoundation.info/assests/img/logo.png
-
 ## GRIP : March-22
 ### Data Science & Business Analytics Internship
    The Internship Domain is Data Science and Business Analytics. It is a one month internship [March' 22] of type WFH.
