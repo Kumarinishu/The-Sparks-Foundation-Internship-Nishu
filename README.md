@@ -13,9 +13,32 @@
   Predict the percentage of an student based on the no. of study hours.
   
   
+  What will be predicted score if a student studies for 9.25 hrs/ day?
+  
   **Dataset Link :** http://bit.ly/w-data
   
-  What will be predicted score if a student studies for 9.25 hrs/ day?
+  
+  My work on the task can be found at my git repo 
+  
+  **GitHub repo link :** https://github.com/Kumarinishu/The-Sparks-Foundation-Internship-Nishu/tree/main/TASKS/TASK-1/Prediction-using-Supervised-ML-Nishu.
+  
+  **Programming Language used :** Python
+  
+  **IDE used :** Jupyter-Notebook
+  
+  
+  **YouTube video link :** https://youtu.be/LcICJFAvMbk
+  
+  **Linkedin post link :** https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task1-ml-activity-6907723286986276864-TFXO
+  
+  ### Task-2 : Prediction using Unsupervised ML model [Beginner]
+  
+  
+  From the given 'Iris' dataset, predicting the optimum number of clusters and representing it visually.
+
+  
+  **Dataset Link :** https://bit.ly/3kXTdox
+  
   
   My work on the task can be found at my git repo 
   
